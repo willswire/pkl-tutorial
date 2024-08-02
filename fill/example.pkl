@@ -1,0 +1,8 @@
+amends "GitLabCICD.pkl"
+
+jobs {
+  new {
+    name = "prb"
+    branchName = "main"
+  }
+}
